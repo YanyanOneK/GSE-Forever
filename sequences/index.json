@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "sequences": [
+    {
+      "id": "warrior-arms",
+      "class_id": "warrior",
+      "class_name": "战士",
+      "spec_id": "arms",
+      "spec_name": "武器",
+      "title": "武器战",
+      "path": "sequences/warrior/arms.txt",
+      "sha256": "3227478b55e06c89b8dc2268a5bf7bd6d49d386bab158b90fe1bd204abaadec7"
+    }
+  ]
+}
