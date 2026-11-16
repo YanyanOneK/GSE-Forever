@@ -1,25 +1,25 @@
 {
-  "schema": 1,
-  "sequences": [
-    {
-      "id": "warrior-arms",
-      "class_id": "warrior",
-      "class_name": "战士",
-      "spec_id": "arms",
-      "spec_name": "武器",
-      "title": "武器战",
-      "path": "sequences/warrior/arms.txt",
-      "sha256": "3227478b55e06c89b8dc2268a5bf7bd6d49d386bab158b90fe1bd204abaadec7"
-    },
-    {
-      "id": "warrior-protection",
-      "class_id": "warrior",
-      "class_name": "战士",
-      "spec_id": "protection",
-      "spec_name": "防护",
-      "title": "防战",
-      "path": "sequences/warrior/protection.txt",
-      "sha256": "6590166b6e4873aa474dcc41897a0882008e41fb6486b64b9f80ce118ca4e720"
-    }
-  ]
+    "schema":  1,
+    "sequences":  [
+                      {
+                          "id":  "warrior-arms",
+                          "class_id":  "warrior",
+                          "class_name":  "战士",
+                          "spec_id":  "arms",
+                          "spec_name":  "武器",
+                          "title":  "武器战",
+                          "path":  "sequences/warrior/arms.txt",
+                          "sha256":  "3227478b55e06c89b8dc2268a5bf7bd6d49d386bab158b90fe1bd204abaadec7"
+                      },
+                      {
+                          "id":  "warrior-protection",
+                          "class_id":  "warrior",
+                          "class_name":  "战士",
+                          "spec_id":  "protection",
+                          "spec_name":  "防护",
+                          "title":  "防战",
+                          "path":  "sequences/warrior/protection.txt",
+                          "sha256":  "6590166b6e4873aa474dcc41897a0882008e41fb6486b64b9f80ce118ca4e720"
+                      }
+                  ]
 }
